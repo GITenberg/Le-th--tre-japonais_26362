@@ -1,0 +1,34 @@
+_repo: Le-th--tre-japonais_26362
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lequeux, André
+    alias: Lequeux, Andre
+    birthdate: 1852
+    deathdate: 1902
+    gutenberg_agent_id: '31947'
+    url: http://www.gutenberg.org/2009/agents/31947
+  editor:
+    agent_name: Leroux, Ernest
+    birthdate: 1845
+    gutenberg_agent_id: '31948'
+    url: http://www.gutenberg.org/2009/agents/31948
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2008-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26362'
+  lccn: '22002945'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Theater -- Japan'
+title: Le théâtre japonais
+url: http://www.gutenberg.org/ebooks/26362
